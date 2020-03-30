@@ -3,6 +3,8 @@ hey there -
 2. play
 3. learn
 4. study
-5. enjoy
+5. a.enjoy
+   b.its necessary
 6. movies
 7. work
+8. shopping
